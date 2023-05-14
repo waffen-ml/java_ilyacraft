@@ -1,0 +1,6 @@
+front side.png
+back side.png
+left side.png
+right side.png
+top side.png
+bottom side.png

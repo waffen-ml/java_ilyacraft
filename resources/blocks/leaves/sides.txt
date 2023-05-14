@@ -1,0 +1,6 @@
+top leaves.jpg
+bottom leaves.jpg
+left leaves.jpg
+right leaves.jpg
+front leaves.jpg
+back leaves.jpg

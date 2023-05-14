@@ -1,0 +1,6 @@
+top dirt.jpg
+bottom dirt.jpg
+left dirt.jpg
+right dirt.jpg
+front dirt.jpg
+back dirt.jpg
